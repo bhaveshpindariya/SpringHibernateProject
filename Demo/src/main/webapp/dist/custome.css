@@ -1,0 +1,52 @@
+body{padding: 0px !important;}
+.headings{background: -webkit-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -o-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -ms-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -moz-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: linear-gradient(to bottom, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+}
+.fntclor{color:#ffffff;}
+.navbar-brand>img{display: block;
+    width: 60%;
+    margin-top: -8px;} 
+.btn{padding: 3px 12px;margin-top: -4px;}
+.page-header {margin: 4px 0 10px/* 10px 0 20px */;font-size: 25px;
+    font-weight: bold;}
+.modal-dialog{margin-top:1px;}
+.gifani{text-align:center;}
+.gifani img{margin-top:90px;}
+.modal{left: 16px;top: 100px;}
+.modal-dialog {width:400px;}
+.nav>li>a{padding: 10px 5px;}
+.sidebar .nav-second-level li a{padding-left: 19px;}
+.sidebar .nav-third-level li a{padding-left: 16px;}
+
+.secound{padding-left: 40px !important;}
+.footer{text-align:center;color:#ffffff;position:fixed;bottom:0;width:100%;background: -webkit-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -o-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -ms-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: -moz-linear-gradient(top, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);
+background: linear-gradient(to bottom, rgb(74, 72, 83) 0%, rgb(32, 32, 34) 100%);font-size:11px;z-index: 9999;} 
+.sidebar ul li{border-bottom:0px;}
+.btnright{float:right;margin-top:-14px;}
+.headingp{padding: 20px 15px;}
+.third{padding-left:60px !important;}
+.forth{padding-left:80px !important;}
+.checkeds{    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    margin-left: 10px !important;
+}
+.centers{text-align: center;}
+.colorsright{color:green;}
+.colorswrong{color:red;}
+.sidebar ul li a.active {
+    background-color: #C0C0BA !important;
+    
+}
+
+.sidebar-nav{margin-top:-45px !important;}
+.dataTable_wrapper{width: 100%;max-width:100%;overflow-x:auto;}
+.dataTable_wrapper .row{margin:0px;}
+.sidebar .sidebar-nav.navbar-collapse{margin-bottom: 15px;}
+#page-wrapper{height: 100% !important;}
